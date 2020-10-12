@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">UserInteraction</string>
+    <string name="nomor_telp">Masukkan nomor telp</string>
+    <string name="show">SHOW</string>
+    <string name="pil1">Pilihan 1</string>
+    <string name="pil2">Pilihan 2</string>
+    <string name="pil3">Pilihan 3</string>
+    <string name="text_number">Phone Number:</string>
+    <string-array name="labels">
+        <item>Home</item>
+        <item>Work</item>
+        <item>School</item>
+        <item>Mobile</item>
+        <item>Others</item>
+    </string-array>
+</resources>
